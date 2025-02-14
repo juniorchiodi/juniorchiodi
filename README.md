@@ -1,10 +1,10 @@
-### Olá! Me chamo Juninho Chiodi 🥶
+### Olá! Me chamo Junior Chiodi 🥶
 
 <hr style="border-top: 2px solid black;">
 
-- 18 anos 📅
+- 19 anos 📅
 - Formado em Desenvolvimento de Sistemas 📝
-- Estudante de Gestão da Tecnologia da Informação
+- Estudante de Gestão da Tecnologia da Informação💻
 - Desenvolvedor FullStack ✔
 
 
