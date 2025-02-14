@@ -9,7 +9,7 @@
 
 
 <div>
-  <a href="https://github.com/juniinhoszz">
+  <a href="https://github.com/juniorchiodi">
   <!--<img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api?username=juniinhoszz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>-->
   <img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniinhoszz&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
